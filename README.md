@@ -1,6 +1,6 @@
 # 🚀 Trilha de Estudos: Automação de Testes com Java & Selenium
 
-Repositório criado para registrar minha evolução, conceitos aprendidos e desafios práticos durante meus estudos em Engenharia de Qualidade de Software (QA).
+Repositório criado para registrar minha evolução, conceitos aprendidos e desafios práticos durante meus estudos em Engenharia de Qualidade de Software.
 
 ## 📌 Tecnologias e Ferramentas Utilizadas
 * **Linguagem Principal:** Java (JDK 17)
